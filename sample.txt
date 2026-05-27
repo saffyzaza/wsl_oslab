@@ -1,0 +1,10 @@
+Alice Johnson,Engineering,75000,New York
+Bob Smith,Marketing,62000,Los Angeles
+Carol White,Engineering,81000,New York
+David Brown,HR,55000,Chicago
+Eve Davis,Engineering,90000,San Francisco
+Frank Miller,Marketing,67000,Los Angeles
+Grace Wilson,HR,58000,Chicago
+Henry Moore,Engineering,78000,New York
+Iris Taylor,Marketing,70000,San Francisco
+Jack Anderson,HR,52000,Chicago
